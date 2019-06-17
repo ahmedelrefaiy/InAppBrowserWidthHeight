@@ -1,6 +1,6 @@
 ---
 title: Inappbrowser
-description: Open an in-app browser window based on [this plugin](https://github.com/apache/cordova-plugin-inappbrowser), We just change it for android only to support open it in (X, Y, Width, Height).
+description: Open an in-app browser window based on this plugin (https://github.com/apache/cordova-plugin-inappbrowser), We just change it for android only to support open it in (X, Y, Width, Height).
 ---
 <!--
 # license: Licensed to the Apache Software Foundation (ASF) under one
