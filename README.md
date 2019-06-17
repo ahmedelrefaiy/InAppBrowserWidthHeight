@@ -164,7 +164,7 @@ instance, or the system browser.
 
 ## Remaining Features
 
-Start reading the remaining of the plugin features from the [original plugin](https://github.com/apache/cordova-plugin-inappbrowser) as it is the same.
+Start reading the remaining of the plugin features from the [original plugin](https://github.com/apache/cordova-plugin-dialogs#methods) as it is the same.
 Remember only to add (X, Y, Width, Height) after `options` parameter
 
 ## Limitations
