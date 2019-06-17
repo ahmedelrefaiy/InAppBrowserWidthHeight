@@ -171,3 +171,4 @@ Remember only to add (X, Y, Width, Height) after `options` parameter
 
 - The plugin don't support the resizing during the execution of the app.
 - You must predefined your app will be portrait or landscape from the begining (and disable user from changing this during the execution of the app)
+- (X, Y, Width, Height) will be applied for android only.
